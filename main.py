@@ -5,4 +5,9 @@
 if __name__ == '__main__':
     print('Welcome to Leeds Beckett')
 
+sum=10+20*23
+print(sum)
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+

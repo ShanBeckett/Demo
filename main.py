@@ -8,6 +8,8 @@ if __name__ == '__main__':
 sum=10+20*23
 print(sum)
 
+print("Hello world")
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
